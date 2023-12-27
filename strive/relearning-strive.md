@@ -2,8 +2,8 @@
 
 1. [Prep week](#prep-week)
 2. [Week 1](#week-1)
-  1. [Day 1](#w1d1)
-  2. [Day 2](#w1d2)
+    1. [Day 1](#w1d1)
+    2. [Day 2](#w1d2)
 
 ## Prep week <a name="prep-week"></a>
 Spent a weekend trying characters and getting my fingers used to the game  
