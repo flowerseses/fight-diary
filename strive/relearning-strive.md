@@ -35,3 +35,10 @@ Day 2, I managed to get a bit more time in, and played a solid 10-15 sets. I los
 - Maybe just focus on combos not including special moves to start with at all and just use yo-yo setups for oki?
 - Dash-up throw works too well. Don't get too comfy with it. On the other hand, I have been landing air throws so consistently, and that rules
 - Learning what other characters do and the matchups will take tame. I need to remember to not be frustrated.
+- Remember that Bridget has a command grab!
+
+Homework:  
+Get some bnb combos and blockstrings  
+STOP. PRESSING. BUTTONS.  
+try not relying on 236K  
+work on getting in and opening with 5K or 2K instead of f.S or c.S  
