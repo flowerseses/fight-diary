@@ -4,6 +4,7 @@
 2. [Week 1](#week-1)
     1. [Day 1](#w1d1)
     2. [Day 2](#w1d2)
+    3. [Day 3](#w1d3)
 
 ## Prep week <a name="prep-week"></a>
 Spent a weekend trying characters and getting my fingers used to the game  
@@ -47,3 +48,17 @@ Get some bnb combos and blockstrings
 STOP. PRESSING. BUTTONS.  
 try not relying on 236K  
 work on getting in and opening with 5K or 2K instead of f.S or c.S  
+
+### Day 3 <a name="w1d3"></a>
+Training room. bnbs I am trying to pick up are:  
+Don't just press f.S whenever in neutral - try and do different things.  
+DO NOT PUSH BUTTONS while blocking. if it seems I can mash out, try so with 5K, 2K or 5P or 2P.  
+Get better at 6P out of block.  
+`2S/f.S~S -> 236K (6)` and the same with H starters, WITHOUT doing the 236KK followup, then practice meatying with c.S, 2S or 2K. Plan to use this as my default combo when not in the corner.  
+`2K -> 2D -> 214S` and the same with 5K and c.S starters. I want to try and use this either from `214K` cancels, or just from a run-up. Eventually, try and use it as a reaction when mashing out of an unsafe blockstring?  
+`c.S -> 6H -> j.236S -> 6H -> c.S -> 6H -> 214K WS -> 5[D]` is the big juice corner combo. Try and learn it in stages (just `c.S -> 6H` first, then build up next steps). the charged dust has been a struggle for me, so let's see. The important bit here is doing the 236S before landing from 6H.  
+Not thinking about counter-hits and CH combos atm. pretending they don't exist.  
+Work on delaying startup of 214K by holding K for variable amounts of time  
+Work on cancelling out of 214K  
+Try and set a yo-yo after every good antiair  
+
