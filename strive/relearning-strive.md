@@ -2,6 +2,8 @@
 
 1. [Prep week](#prep-week)
 2. [Week 1](#week-1)
+  1. [Day 1](#w1d1)
+  2. [Day 2](#w1d2)
 
 ## Prep week <a name="prep-week"></a>
 Spent a weekend trying characters and getting my fingers used to the game  
@@ -18,13 +20,16 @@ Character notes:
   the obvious choice, she is FUN. I'll have to work on timings for yoyo things, but I was definitely the most excited to learn her. Gave her a ponytail and a trans pride outfit and we're good to go
 - Sin
   the unexpected choice, straightforward, the moves are all kinda cool and the chaining looks interesting, but slightly worried about managing another meter. I'll revisit him alongside Elphelt in a few weeks.  
+
 Spent a few hours, total, in training, just getting used to the game and the buttons, then practicing some basic ram and bridget combos. I definitely won't be able to do them in a game but is good to know. Leverless makes DPs easier, and most other stuff, but it does make, weirdly enough, half-circle (and especially the 632146 super movement that strive likes) harder. Sucks that Bridget's supers are all half-circles, but we'll get there.  
 Spent a few hours also digging through dustloop and watching some guide videos (most relevant: the Diaphone Bridget 101 and 201 - https://www.youtube.com/watch?v=MBq8L1Cr9hc and https://www.youtube.com/watch?v=T6mq2Oxw6sA, as well as https://www.youtube.com/watch?v=Y8Z2tiBAmwA). We'll return to these at the end of week 1
 Plan for week 1: don't stress about combos or anything and just jump in and play games.  
 
 ## Week 1 <a name="week-one"></a>
+### Day 1 <a name="w1d1"></a>
 Day 1 was uneventful - just played a few games to not be nervous about it. I remember nothing about them, but since I started at my old floor 8 rank, I basically just lost enough, dropped down to floor 6 and called it a night. The major takeaway from this was that I still have a lot of gio muscle memory (trying to dash into 5K or 2K, trying to end combos with 214K or 236K when I want to set a yo-yo instead), and that I press buttons way, way too often. I also have NO idea what anyone added after Goldlewis does.  
 
+### Day 2 <a name="w1d2"></a>
 Day 2, I managed to get a bit more time in, and played a solid 10-15 sets. I lost a bunch, but also got some pretty clean wins - seems like people I am getting matched with now pretty much have 1-2 combos and try to do them religiously. The games don't really matter, but takeaways:
 - STOP. PRESSING. BUTTONS
 - I need to stop relying on f.S so much
