@@ -62,3 +62,5 @@ Work on delaying startup of 214K by holding K for variable amounts of time
 Work on cancelling out of 214K  
 Try and set a yo-yo after every good antiair  
 
+Day 3 matches: I am still losing to stuff I know is going to happen, because I am not leaving enough space to think. Practicing the bnbs above was useful, and allowed me to definitely do a more varied offense, but I KEEP. PRESSING. BUTTONS. Elphelt rekka loops feel impossible, and I think it's still the same thing as above. Stop pushing buttons, stop using 236K as much (I am using it much less, but I need to stop completely, and just use it as an approach tool/ender in the corner). I have managed to get out some good 6Ps and wakeup DPs to deal with people jumping too much, and am getting better at recognizing high/low mixups (but then forget about throws). Definitely need to get less predictable about my approaches.  
+Also, people seem to just... STOP at full screen when I toss the yo-yo out. I should use this somehow, but I'm not sure what the best way is.  
